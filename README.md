@@ -1,4 +1,4 @@
 # hello-world
 Initial Repository for test
 
-Just add some words here as required,hehe
+I just want to how to really pull and push
